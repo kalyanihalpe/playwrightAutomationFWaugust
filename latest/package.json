@@ -1,0 +1,28 @@
+{
+  "name": "latest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "test:headed": "playwright test --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5",
+    "allure-commandline": "^2.46.1",
+    "allure-playwright": "^3.13.0"
+  },
+  "dependencies": {
+    "-": "^0.0.1-security.1",
+    "allure": "^3.21.0",
+    "csv-parse": "^7.0.3",
+    "dotenv": "^18.0.8",
+    "playwright": "^1.64.1",
+    "xlsx": "^0.18.5"
+  }
+}
