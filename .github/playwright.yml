@@ -30,7 +30,6 @@ jobs:
         run: npx playwright install --with-deps chromium
 
       - name: Run Playwright Tests
-        run: npx playwright test
         env:
           ENV: qa
         run: npx playwright test --project=chromium
