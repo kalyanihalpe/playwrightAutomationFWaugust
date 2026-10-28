@@ -1,0 +1,8 @@
+{
+  id: 8686222,
+  name: 'kanu',
+  email: 'nltech1793002603343@gmail.com',
+  gender: 'female',
+  status: 'inactive'
+}
+User Id is : 8686222

@@ -1,0 +1,72 @@
+[
+  {
+    id: 8685197,
+    name: 'Aparna',
+    email: 'Automation0.6544674943491305@gmail.com',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8685196,
+    name: 'Mahesh',
+    email: 'Automation0.10075305414593716@gmail.com',
+    gender: 'female',
+    status: 'inactive'
+  },
+  {
+    id: 8685195,
+    name: 'Nishant',
+    email: 'Automation0.792100883373175@gmail.com',
+    gender: 'female',
+    status: 'inactive'
+  },
+  {
+    id: 8685194,
+    name: 'Ravi',
+    email: 'Automation0.5587239171729279@gmail.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8685193,
+    name: 'Raj',
+    email: 'Automation0.12037052018448635@gmail.com',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8685192,
+    name: 'Meena',
+    email: 'Automation0.4566144499102901@gmail.com',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8685191,
+    name: 'Mohan',
+    email: 'Automation0.9467797438678797@gmail.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8685190,
+    name: 'Aparna',
+    email: 'Automation0.0014949785519593473@gmail.com',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8685189,
+    name: 'Mahesh',
+    email: 'Automation0.7623913680560296@gmail.com',
+    gender: 'female',
+    status: 'inactive'
+  },
+  {
+    id: 8685188,
+    name: 'Nishant',
+    email: 'Automation0.14478473896264576@gmail.com',
+    gender: 'female',
+    status: 'inactive'
+  }
+]

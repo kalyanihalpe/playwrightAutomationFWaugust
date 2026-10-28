@@ -1,0 +1,2 @@
+Searching form the product : hp
+Clicking on the product with name : HP LP3065

@@ -1,0 +1,72 @@
+[
+  {
+    id: 8686186,
+    name: 'kanu',
+    email: 'nltech1793000236834@gmail.com',
+    gender: 'female',
+    status: 'inactive'
+  },
+  {
+    id: 8686185,
+    name: 'Nishant Automation',
+    email: 'nltech1793000189750@gmail.com',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8686107,
+    name: 'Sujata Ahluwalia',
+    email: 'sujata_ahluwalia@anderson.example',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8686106,
+    name: 'Goutam Saini',
+    email: 'saini_goutam@gusikowski.example',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8686105,
+    name: 'Akshat Pilla',
+    email: 'akshat_pilla@jast-considine.test',
+    gender: 'female',
+    status: 'inactive'
+  },
+  {
+    id: 8686104,
+    name: 'Bhishma Singh',
+    email: 'bhishma_singh@larkin-schamberger.example',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8686103,
+    name: 'Darshwana Panicker',
+    email: 'darshwana_panicker@schroeder.test',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8686102,
+    name: 'Gita Panicker',
+    email: 'panicker_gita@wiegand.example',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8686101,
+    name: 'Meenakshi Varrier',
+    email: 'varrier_meenakshi@brekke-hermann.test',
+    gender: 'female',
+    status: 'inactive'
+  },
+  {
+    id: 8686100,
+    name: 'Agneya Panicker',
+    email: 'panicker_agneya@bartell.example',
+    gender: 'female',
+    status: 'active'
+  }
+]
