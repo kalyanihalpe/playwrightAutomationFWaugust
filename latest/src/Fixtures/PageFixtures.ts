@@ -1,8 +1,10 @@
-import {test as baseTest} from '@playwright/test';
-import { HomePage } from 'src/pages/Homepage.js';
-import { LoginPage } from 'src/pages/Loginpage.js';
-import {SearchResultsPage} from 'src/pages/SearchResultPage';
-import {ProductInfoPage} from "../pages/ProductInfoPage.js";
+import { test } from '../src/Fixtures/PageFixtures';
+import { test as baseTest } from '@playwright/test';
+
+import { HomePage } from '../pages/Homepage';
+import { LoginPage } from '../pages/Loginpage';
+import { SearchResultsPage } from '../pages/SearchResultPage';
+import { ProductInfoPage } from '../pages/ProductInfopage';
 
 type pageFixtures = {
     loginPage:LoginPage;
